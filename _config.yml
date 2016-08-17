@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Dana Ducharme"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,10 +10,10 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_name:                    "Dana Ducharme"
+resume_title:                   "Web Developer"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "dana@duchar.me"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
